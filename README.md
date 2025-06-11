@@ -40,10 +40,11 @@ Linux System Architecture is consists of following layers
 •	Kernel - Core component of Operating System, interacts directly with hardware, provides low level services to upper layer components.
 •	Shell - An interface to kernel, hiding complexity of kernel's functions from users. Takes commands from user and executes kernel's functions.
 •	Utilities - Utility programs giving user most of the functionalities of an operating systems.
-![image](https://raw.githubusercontent.com/nu11secur1ty/All-Stages-of-Linux-Booting-Process-/master/boot-process-chart.jpg)
 
 
 # All Stages of Linux Booting Process Explained
+![image](https://github.com/SayanthMadhu/LINUX/blob/8ec194c488d7fbd5bea2c9b2bb8ef4347f4765ef/boot.png)
+![image]()
 
 This article describes linux booting process in detail, what are the steps involved, which scripts are run, what configuration files are read and their order, from turning on the system till getting the login prompt.
 Although this article projects a general view of booting a Linux system, but some configuration files and commands can be Red Hat specific. 
