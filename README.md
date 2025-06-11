@@ -33,7 +33,7 @@ Linux Kernel is the heart of Linux operating systems. It is an open-source (sour
 The kernel is so named because—like a seed inside a hard shell—it exists within the OS and controls all the major functions of the hardware, whether it’s a phone, laptop, server, or any other kind of computer.
 
 
-![Image Alt]()
+![Image Alt](https://github.com/SayanthMadhu/LINUX/blob/2c7bcc89abe5615b0c9ed2c6621aabdb88b82734/linux%20kernal.jpg)
 
 Linux System Architecture is consists of following layers
 •	Hardware layer - Hardware consists of all peripheral devices (RAM/ HDD/ CPU etc).
