@@ -44,7 +44,7 @@ Linux System Architecture is consists of following layers
 
 # All Stages of Linux Booting Process Explained
 ![image](https://github.com/SayanthMadhu/LINUX/blob/8ec194c488d7fbd5bea2c9b2bb8ef4347f4765ef/boot.png)
-![image]()
+![image](https://github.com/SayanthMadhu/LINUX/blob/09117b0ca38d72f55a56c704b7591a4c872b5766/boot%20process.png)
 
 This article describes linux booting process in detail, what are the steps involved, which scripts are run, what configuration files are read and their order, from turning on the system till getting the login prompt.
 Although this article projects a general view of booting a Linux system, but some configuration files and commands can be Red Hat specific. 
